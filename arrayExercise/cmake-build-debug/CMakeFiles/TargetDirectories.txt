@@ -1,0 +1,3 @@
+C:/Users/kasum/OneDrive - Berufsbildungszentrum Schaffhausen/ARCHIV/Faecher/Informatik/CProjects/arrayExercise/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/kasum/OneDrive - Berufsbildungszentrum Schaffhausen/ARCHIV/Faecher/Informatik/CProjects/arrayExercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kasum/OneDrive - Berufsbildungszentrum Schaffhausen/ARCHIV/Faecher/Informatik/CProjects/arrayExercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
